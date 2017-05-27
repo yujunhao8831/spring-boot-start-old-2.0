@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="aidijing-web:war">
+    <output-path>$PROJECT_DIR$/aidijing-web/target</output-path>
+    <root id="archive" name="aidijing-web.war">
+      <element id="artifact" artifact-name="aidijing-web:war exploded" />
+    </root>
+  </artifact>
+</component>

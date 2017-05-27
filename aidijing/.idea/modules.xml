@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/aidijing.iml" filepath="$PROJECT_DIR$/.idea/aidijing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aidijing-common/aidijing-common.iml" filepath="$PROJECT_DIR$/aidijing-common/aidijing-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aidijing-dao/aidijing-dao.iml" filepath="$PROJECT_DIR$/aidijing-dao/aidijing-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aidijing-eureka-client/aidijing-eureka-client.iml" filepath="$PROJECT_DIR$/aidijing-eureka-client/aidijing-eureka-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aidijing-eureka-server/aidijing-eureka-server.iml" filepath="$PROJECT_DIR$/aidijing-eureka-server/aidijing-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aidijing-parent/aidijing-parent.iml" filepath="$PROJECT_DIR$/aidijing-parent/aidijing-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aidijing-ribbon-consumer/aidijing-ribbon-consumer.iml" filepath="$PROJECT_DIR$/aidijing-ribbon-consumer/aidijing-ribbon-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aidijing-service/aidijing-service.iml" filepath="$PROJECT_DIR$/aidijing-service/aidijing-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aidijing-web/aidijing-web.iml" filepath="$PROJECT_DIR$/aidijing-web/aidijing-web.iml" />
+    </modules>
+  </component>
+</project>
